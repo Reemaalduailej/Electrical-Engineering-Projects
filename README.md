@@ -18,12 +18,12 @@ The two electrical circuits are both used in the robot arm. Each servo motor is 
 
 ---
 
-## How to Use/Download Files in this Project
+## How to Use/Download the Files
 
 Each circuit has four files, two files out of the four are images of the circuit (before and after the simulation). The file in `ino` format shows code used to program the circuit. Last file which is in `brd` format shows the full circuit that is designed and can be viewed by using TinkerCad. 
 
 ---
 
-## Softwares and Websites Used in the Project
+## Softwares and Websites Used
 
 - TinkerCad
