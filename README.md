@@ -5,7 +5,7 @@
 
 ## Components of this Project
 
-**In this Project there are Two Seperate Electrical Circuits:** 
+**In this Project there are Two Separate Electrical Circuits:** 
 
 - The first electrical circuit *Servo Motors to Initial Positin Circuit* is designed by connecting an arduino to five servo motors that are programmed to rotate to 90 degrees once the robot is activated. 
 - The Secend electrical circuit *Servo Potentiometer Control Circuit* is designed by connecting an arduino to five servo motors, and each servo motor is controlled by a potentiometer.
